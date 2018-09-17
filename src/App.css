@@ -1,0 +1,31 @@
+body {
+  margin: 40px;
+}
+
+textarea {
+  @extend .colorScheme;
+  width: 99%;
+  resize: vertical;
+  min-height: 400px;
+  min-width: 400px;
+  font-size: 16px;
+}
+
+.input {
+  grid-area: input;  
+}
+
+.output {  
+  grid-area: output;  
+  height: 400px;
+  width: 400px;
+  font: 16px Arial, sans-serif;;  
+}
+
+.container { 
+  display: grid;
+  grid-template-columns:  auto 400px 400px auto;
+  grid-column-gap: 20px;
+  grid-template-areas:
+    " . input output . "
+}
