@@ -1,6 +1,6 @@
 # Front End Libraries Projects: A Markdown Previewer for freecodecamp.org
 
-### Build a Markdown Previewer
+### Build a Markdown Previewer with React
 
 #### Objective
 
