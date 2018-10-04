@@ -2,6 +2,8 @@
 
 ### Build a Markdown Previewer with React
 
+Try it on Codepen: https://codepen.io/Romugar/pen/ZMqBXz
+
 #### Objective
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/GrZVVO.
